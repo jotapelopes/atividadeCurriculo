@@ -5,3 +5,5 @@
 * Contato: (XX) XXXXX-XXXX
 * E-mail: XXXXXXXXXXXXX@gmail.com
 
+## Perfil:
+Comunicativo. Facilidade para o trabalho em equipe. Interativo e eficiente
