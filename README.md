@@ -1,3 +1,4 @@
+
 # João Pedro Lopes
 
 ## Dados Pessoais:
@@ -25,3 +26,9 @@ Comunicativo. Facilidade para o trabalho em equipe. Interativo e eficiente.
 * Participação da Olimpíada Brasileira de Biologia;
 * Aluno de 100% no SENAI Shunji no primeiro semestre dos anos de 2021 e 2022;
 * Inglês intermediário; nível B2, segundo Common European Framework of Reference for Languages.
+
+## Redes Socias:
+
+Instagram: https://www.instagram.com/jotape_lopes/ 
+GitLab: https://gitlab.com/jotapelopes
+Bitbucket: https://bitbucket.org/account/workspaces
